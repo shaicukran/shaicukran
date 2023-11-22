@@ -1,0 +1,45 @@
+2023-11-08 20:20:06.080 [info] Log level: Info
+2023-11-08 20:20:06.080 [info] Validating found git in: "git"
+2023-11-08 20:20:06.082 [info] Using git "2.34.1" from "git"
+2023-11-08 20:20:06.082 [info] > git rev-parse --show-toplevel [10ms]
+2023-11-08 20:20:06.082 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 20:20:06.082 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-08 20:20:06.082 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 20:20:06.082 [info] > git rev-parse --show-toplevel [133ms]
+2023-11-08 20:20:06.082 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 20:20:06.091 [info] > git rev-parse --show-toplevel [21ms]
+2023-11-08 20:20:06.107 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-11-08 20:20:06.139 [info] Open repository: /home/shaicukran/ex0
+2023-11-08 20:20:06.167 [info] > git config --get commit.template [8ms]
+2023-11-08 20:20:06.172 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2023-11-08 20:20:06.183 [info] > git status -z -uall [4ms]
+2023-11-08 20:20:06.214 [info] > git config --get commit.template [8ms]
+2023-11-08 20:20:06.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-11-08 20:20:06.265 [info] > git status -z -uall [43ms]
+2023-11-08 20:20:06.774 [info] > git check-ignore -v -z --stdin [3ms]
+2023-11-08 20:20:11.282 [info] > git show --textconv :z [10ms]
+2023-11-08 20:20:11.285 [info] > git ls-files --stage -- /home/shaicukran/ex0/z [4ms]
+2023-11-08 20:21:06.454 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-08 20:21:06.454 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 20:21:56.999 [info] > git show --textconv :z [15ms]
+2023-11-08 20:21:57.002 [info] > git ls-files --stage -- /home/shaicukran/ex0/z [4ms]
+2023-11-08 20:22:01.207 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-08 20:22:01.207 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 20:22:02.101 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-08 20:22:02.101 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 20:22:04.320 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-08 20:22:04.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 20:23:08.457 [info] > git show --textconv :z [16ms]
+2023-11-08 20:23:08.459 [info] > git ls-files --stage -- /home/shaicukran/ex0/z [6ms]
+2023-11-08 20:41:22.097 [info] > git show --textconv :z.c [9ms]
+2023-11-08 20:41:22.100 [info] > git ls-files --stage -- /home/shaicukran/ex0/z.c [4ms]
+2023-11-08 20:41:22.325 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-08 20:41:22.951 [info] > git config --get commit.template [6ms]
+2023-11-08 20:41:22.952 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-08 20:41:22.958 [info] > git status -z -uall [1ms]
+2023-11-08 20:42:13.067 [info] > git config --get commit.template [7ms]
+2023-11-08 20:42:13.068 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-08 20:42:13.075 [info] > git status -z -uall [1ms]
+2023-11-08 20:42:29.045 [info] > git config --get commit.template [11ms]
+2023-11-08 20:42:29.046 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-11-08 20:42:29.055 [info] > git status -z -uall [2ms]

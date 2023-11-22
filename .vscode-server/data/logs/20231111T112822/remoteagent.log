@@ -1,0 +1,41 @@
+2023-11-11 11:28:22.772 [info] 
+
+
+
+
+2023-11-11 11:28:22.773 [info] Extension host agent started.
+2023-11-11 11:28:22.866 [info] [127.0.0.1][ddc79b9c][ManagementConnection] New connection established.
+2023-11-11 11:28:24.376 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] New connection established.
+2023-11-11 11:28:24.397 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] <21882> Launched Extension Host Process.
+2023-11-11 12:28:21.714 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 12:28:22.068 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 12:32:00.710 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-11 12:38:47.816 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 12:38:48.360 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 12:54:11.889 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 12:54:12.393 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 13:56:20.054 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 13:56:20.498 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 14:44:26.865 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 14:44:27.375 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 15:29:58.632 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 15:29:58.871 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 16:24:15.343 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 16:24:17.373 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 18:01:37.521 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 18:01:37.789 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 20:20:53.160 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 20:20:53.590 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-11 20:53:26.019 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-11 20:53:26.518 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-12 18:41:19.730 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-12 18:41:20.052 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-12 18:58:01.721 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-12 18:58:02.026 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-12 20:22:41.590 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-12 20:22:41.823 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-12 20:30:32.896 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-12 20:36:17.591 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] The client has reconnected.
+2023-11-12 20:36:17.844 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has reconnected.
+2023-11-12 21:07:02.307 [info] [127.0.0.1][ddc79b9c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-12 21:07:02.550 [info] [127.0.0.1][f04cd60e][ExtensionHostConnection] <21882> Extension Host Process exited with code: 0, signal: null.

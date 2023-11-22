@@ -1,0 +1,123 @@
+2023-11-07 18:03:32.482 [info] Log level: Info
+2023-11-07 18:03:32.482 [info] Validating found git in: "git"
+2023-11-07 18:03:32.482 [info] Using git "2.34.1" from "git"
+2023-11-07 18:03:32.482 [info] > git rev-parse --show-toplevel [35ms]
+2023-11-07 18:03:32.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 18:03:32.482 [info] > git rev-parse --show-toplevel [21ms]
+2023-11-07 18:03:32.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 18:03:32.485 [info] > git rev-parse --show-toplevel [8ms]
+2023-11-07 18:03:32.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 18:03:32.507 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-07 18:03:32.516 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 18:03:32.552 [info] > git rev-parse --show-toplevel [18ms]
+2023-11-07 18:03:32.567 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-11-07 18:03:32.651 [info] Open repository: /home/shaicukran/p1
+2023-11-07 18:03:32.706 [info] > git config --get commit.template [7ms]
+2023-11-07 18:03:32.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-11-07 18:03:32.760 [info] > git status -z -uall [10ms]
+2023-11-07 18:03:32.836 [info] > git config --get commit.template [2ms]
+2023-11-07 18:03:32.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-11-07 18:03:32.871 [info] > git status -z -uall [7ms]
+2023-11-07 18:03:33.565 [info] > git check-ignore -v -z --stdin [7ms]
+2023-11-07 18:04:49.908 [info] > git show --textconv :shai1 [24ms]
+2023-11-07 18:04:49.919 [info] > git ls-files --stage -- /home/shaicukran/p1/shai1 [11ms]
+2023-11-07 18:04:49.937 [info] > git cat-file -s 2b31011cf9de6c82d52dc386cd7d1a9be83188c1 [5ms]
+2023-11-07 18:04:51.795 [info] > git show --textconv :2 [19ms]
+2023-11-07 18:04:51.802 [info] > git ls-files --stage -- /home/shaicukran/p1/2 [11ms]
+2023-11-07 18:04:53.290 [info] > git show --textconv :shai1 [18ms]
+2023-11-07 18:04:53.297 [info] > git ls-files --stage -- /home/shaicukran/p1/shai1 [9ms]
+2023-11-07 18:04:53.316 [info] > git cat-file -s 2b31011cf9de6c82d52dc386cd7d1a9be83188c1 [4ms]
+2023-11-07 18:04:58.662 [info] > git show --textconv :2 [13ms]
+2023-11-07 18:04:58.662 [info] > git ls-files --stage -- /home/shaicukran/p1/2 [4ms]
+2023-11-07 18:05:01.214 [info] > git show --textconv :shai1 [20ms]
+2023-11-07 18:05:01.220 [info] > git ls-files --stage -- /home/shaicukran/p1/shai1 [11ms]
+2023-11-07 18:05:01.241 [info] > git cat-file -s 2b31011cf9de6c82d52dc386cd7d1a9be83188c1 [4ms]
+2023-11-07 18:05:04.624 [info] > git show --textconv :2 [11ms]
+2023-11-07 18:05:04.628 [info] > git ls-files --stage -- /home/shaicukran/p1/2 [6ms]
+2023-11-07 18:05:32.428 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-07 18:05:32.428 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 18:37:38.632 [info] > git show --textconv :shai1 [25ms]
+2023-11-07 18:37:38.645 [info] > git ls-files --stage -- /home/shaicukran/p1/shai1 [12ms]
+2023-11-07 18:37:38.667 [info] > git cat-file -s 2b31011cf9de6c82d52dc386cd7d1a9be83188c1 [4ms]
+2023-11-07 18:37:55.861 [info] > git config --get commit.template [16ms]
+2023-11-07 18:37:55.863 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-11-07 18:37:55.876 [info] > git status -z -uall [3ms]
+2023-11-07 18:37:56.506 [info] > git show --textconv :2 [23ms]
+2023-11-07 18:37:56.514 [info] > git ls-files --stage -- /home/shaicukran/p1/2 [11ms]
+2023-11-07 18:38:14.958 [info] > git show --textconv :ex 00 [10ms]
+2023-11-07 18:38:14.960 [info] > git ls-files --stage -- /home/shaicukran/p1/ex 00 [5ms]
+2023-11-07 18:38:15.229 [info] > git check-ignore -v -z --stdin [6ms]
+2023-11-07 18:38:15.842 [info] > git config --get commit.template [22ms]
+2023-11-07 18:38:15.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2023-11-07 18:38:15.867 [info] > git status -z -uall [6ms]
+2023-11-07 20:02:35.680 [info] > git show --textconv :ex00 [23ms]
+2023-11-07 20:02:35.693 [info] > git ls-files --stage -- /home/shaicukran/p1/ex00 [15ms]
+2023-11-07 20:02:35.910 [info] > git check-ignore -v -z --stdin [12ms]
+2023-11-07 20:02:36.488 [info] > git config --get commit.template [14ms]
+2023-11-07 20:02:36.490 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-11-07 20:02:36.504 [info] > git status -z -uall [4ms]
+2023-11-07 20:24:02.319 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-07 20:24:02.319 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:24:06.300 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-07 20:24:06.300 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:24:07.729 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-07 20:24:07.730 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:24:08.891 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-07 20:24:08.891 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:24:09.938 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-07 20:24:09.938 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:24:40.030 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-07 20:24:40.030 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:24:41.158 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-07 20:24:41.158 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:45:01.848 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-07 20:45:01.848 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:45:01.931 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-07 20:45:01.931 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:45:02.082 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-07 20:45:02.082 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-07 20:45:04.255 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-07 20:45:04.255 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-08 19:32:01.735 [info] > git ls-files --stage -- /home/shaicukran/p1/z [15ms]
+2023-11-08 19:32:01.737 [info] > git show --textconv :z [27ms]
+2023-11-08 19:32:01.882 [info] > git check-ignore -v -z --stdin [6ms]
+2023-11-08 19:32:02.608 [info] > git config --get commit.template [7ms]
+2023-11-08 19:32:02.622 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2023-11-08 19:32:02.635 [info] > git status -z -uall [8ms]
+2023-11-08 19:33:45.705 [info] > git config --get commit.template [10ms]
+2023-11-08 19:33:45.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-11-08 19:33:45.715 [info] > git status -z -uall [2ms]
+2023-11-08 19:34:44.958 [info] > git config --get commit.template [9ms]
+2023-11-08 19:34:44.959 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-11-08 19:34:44.967 [info] > git status -z -uall [2ms]
+2023-11-08 19:35:16.643 [warning] ENOENT: no such file or directory, open '/home/shaicukran/p1/.git/HEAD'
+2023-11-08 19:35:16.669 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/shaicukran/p1/.git/config'
+2023-11-08 19:35:16.695 [warning] ENOENT: no such file or directory, open '/home/shaicukran/p1/.git/HEAD'
+2023-11-08 19:35:16.727 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/shaicukran/p1/.git/config'
+2023-11-08 19:36:03.726 [info] > git rev-parse --show-toplevel [11ms]
+2023-11-08 19:36:03.739 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-08 19:36:03.755 [info] Open repository: /home/shaicukran/z
+2023-11-08 19:36:03.764 [info] > git config --get commit.template [2ms]
+2023-11-08 19:36:03.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-08 19:36:03.785 [info] > git status -z -uall [3ms]
+2023-11-08 19:36:03.812 [info] > git config --get commit.template [8ms]
+2023-11-08 19:36:03.812 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-08 19:36:03.820 [info] > git status -z -uall [1ms]
+2023-11-08 19:36:04.073 [info] > git show --textconv :ex00 [6ms]
+2023-11-08 19:36:04.076 [info] > git ls-files --stage -- /home/shaicukran/z/ex00 [4ms]
+2023-11-08 19:36:04.293 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-08 19:36:34.244 [info] > git config --get commit.template [6ms]
+2023-11-08 19:36:34.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-08 19:36:34.251 [info] > git status -z -uall [1ms]
+2023-11-08 19:47:12.726 [info] > git show --textconv :z [6ms]
+2023-11-08 19:47:12.728 [info] > git ls-files --stage -- /home/shaicukran/z/z [3ms]
+2023-11-08 19:47:13.612 [info] > git config --get commit.template [5ms]
+2023-11-08 19:47:13.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-08 19:47:13.619 [info] > git status -z -uall [2ms]
+2023-11-08 19:47:54.237 [info] > git config --get commit.template [2ms]
+2023-11-08 19:47:54.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-08 19:47:54.253 [info] > git status -z -uall [2ms]
+2023-11-08 19:52:52.004 [warning] ENOENT: no such file or directory, open '/home/shaicukran/z/.git/HEAD'
+2023-11-08 19:52:52.016 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/shaicukran/z/.git/config'
+2023-11-08 19:52:52.029 [warning] ENOENT: no such file or directory, open '/home/shaicukran/z/.git/HEAD'
+2023-11-08 19:52:52.044 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/shaicukran/z/.git/config'

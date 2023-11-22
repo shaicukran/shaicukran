@@ -1,0 +1,4 @@
+2023-11-22 12:56:21.550 [info] Revived process, old id 470e2ad78c20c1eab9813d16d4b079fe-2 -> new id 1
+2023-11-22 12:56:21.550 [info] Revived process, old id 470e2ad78c20c1eab9813d16d4b079fe-3 -> new id 2
+2023-11-22 12:56:25.251 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+2023-11-22 12:56:42.436 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
