@@ -1,2 +1,2 @@
 git log --pretty=%H
-fsgfr
+dfgdfg

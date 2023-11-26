@@ -7,3 +7,7 @@
 2023-11-23 18:56:15.180 [info] [127.0.0.1][e0a8cb08][ManagementConnection] New connection established.
 2023-11-23 18:56:16.732 [info] [127.0.0.1][8e5556a1][ExtensionHostConnection] New connection established.
 2023-11-23 18:56:16.758 [info] [127.0.0.1][8e5556a1][ExtensionHostConnection] <494> Launched Extension Host Process.
+2023-11-24 14:38:34.775 [info] [127.0.0.1][8e5556a1][ExtensionHostConnection] The client has reconnected.
+2023-11-24 14:38:35.704 [info] [127.0.0.1][e0a8cb08][ManagementConnection] The client has reconnected.
+2023-11-26 11:53:35.698 [info] [127.0.0.1][8e5556a1][ExtensionHostConnection] The client has reconnected.
+2023-11-26 11:53:36.282 [info] [127.0.0.1][e0a8cb08][ManagementConnection] The client has reconnected.
