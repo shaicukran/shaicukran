@@ -12,3 +12,7 @@
 2023-11-22 13:35:38.309 [warning] No ptyHost heartbeat after 6 seconds
 2023-11-22 17:52:57.339 [info] [127.0.0.1][aaf142ad][ManagementConnection] The client has reconnected.
 2023-11-22 17:52:57.614 [info] [127.0.0.1][040ec73d][ExtensionHostConnection] The client has reconnected.
+2023-11-22 20:27:19.774 [info] [127.0.0.1][aaf142ad][ManagementConnection] The client has reconnected.
+2023-11-22 20:27:20.292 [info] [127.0.0.1][040ec73d][ExtensionHostConnection] The client has reconnected.
+2023-11-22 20:47:11.387 [info] [127.0.0.1][aaf142ad][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-22 20:47:11.620 [info] [127.0.0.1][040ec73d][ExtensionHostConnection] <17022> Extension Host Process exited with code: 0, signal: null.
